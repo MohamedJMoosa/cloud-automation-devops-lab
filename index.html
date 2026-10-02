@@ -23,19 +23,33 @@
       box-shadow: 0 20px 45px rgba(0, 0, 0, 0.3);
     }
 
-    h1 { margin-top: 0; }
+    h1 {
+      margin-top: 0;
+    }
 
     .status {
       color: #86efac;
       font-weight: bold;
+    }
+
+    .deployment {
+      margin-top: 24px;
+      padding: 14px;
+      border-left: 4px solid #38bdf8;
+      background: #0f172a;
+      border-radius: 6px;
     }
   </style>
 </head>
 <body>
   <main>
     <h1>CloudOps Status Dashboard</h1>
-    <p class="status">● All systems operational</p>
-    <p>This application will be containerized with Docker and deployed to AWS.</p>
+    <p class="status">&#9679; All systems operational</p>
+    <p>Containerized application running on AWS EC2.</p>
+
+    <div class="deployment">
+      Version 2 — Deployed automatically with GitHub Actions
+    </div>
   </main>
 </body>
 </html>
