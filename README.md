@@ -149,7 +149,7 @@ A separate controlled outage tested diagnosis and recovery of a stopped Docker c
 - [Container outage](screenshots/26-container-outage.png)
 - [Container stopped](screenshots/27-container-stopped-diagnosis.png)
 - [Application recovered](screenshots/28-container-recovered.png)
-- [Resource cleanup](screenshots/22-terraform-destroy.png)
+- [Final resource cleanup](screenshots/29-final-resource-cleanup.png)
 
 ## Project Structure
 
