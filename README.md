@@ -143,6 +143,8 @@ A separate controlled outage tested diagnosis and recovery of a stopped Docker c
 - [ECR image](screenshots/16-ecr-image-v1.png)
 - [Successful GitHub Actions run](screenshots/20-github-actions-success.png)
 - [Automatically deployed Version 2](screenshots/21-cicd-auto-deployment.png)
+- [Monitoring plan](screenshots/23-monitoring-plan.png)
+- [Monitoring deployment](screenshots/24-monitoring-apply.png)
 - [CloudWatch alarm test](screenshots/25-cloudwatch-alert-test.png)
 - [Container outage](screenshots/26-container-outage.png)
 - [Container stopped](screenshots/27-container-stopped-diagnosis.png)
